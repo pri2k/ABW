@@ -13,7 +13,7 @@ def play_audio(file_path):
     st.audio(audio_bytes, format="audio/mp3")
 
 # Call it
-play_audio("assets/music.mp3")
+
 # ---------------- CUSTOM CSS ----------------
 st.markdown("""
     <style>
@@ -74,6 +74,8 @@ st.markdown("""
 # ---------------- LANDING ----------------
 st.markdown('<div class="title">Hi Anant!</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">I made something for you...</div>', unsafe_allow_html=True)
+
+play_audio("assets/music.mp3")
 
 st.write("")
 
