@@ -22,8 +22,8 @@ st.markdown("""
     }
     .title {
         text-align: center;
-        font-size: 48px;
-        color: #c9184a;
+        font-size: 55px;
+        color: #d00000;
         font-weight: bold;
     }
     .subtitle {
@@ -46,7 +46,7 @@ st.markdown("""
         text-align: center;
     }
     .text {
-        font-size: 18px;
+        font-size: 25px;
         color: #333;
         text-align: center;
     }
@@ -72,8 +72,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------- LANDING ----------------
-st.markdown('<div class="title">Hi Anant!</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">I made something for you...</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">Hi Anant!!</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Cheers to 21🍻</div>', unsafe_allow_html=True)
 
 play_audio("assets/music.mp3")
 
@@ -89,7 +89,7 @@ def memory(title, text, image):
         with col2:
             # Title
             st.markdown(f"""
-                <h3 style='text-align:center; color:#d00000; margin-bottom:10px;'>
+                <h2 style='text-align:center; color:#d00000; margin-bottom:10px;'>
                 {title}
                 </h3>
             """, unsafe_allow_html=True)
@@ -99,7 +99,7 @@ def memory(title, text, image):
 
             # Text
             st.markdown(f"""
-                <p style='text-align:center; font-size:18px; color:#333; margin-top:10px;'>
+                <p style='text-align:center; font-size:25px; color:#333; margin-top:10px;'>
                 {text}
                 </p>
             """, unsafe_allow_html=True)
