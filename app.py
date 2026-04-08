@@ -109,21 +109,21 @@ def memory(title, text, image):
 # 🌱 Beginning
 memory(
     "🌱 The Beginning",
-    "From that first conversation on 20th October… to meeting you in November… to you proposing on 5th December 💍. Everything felt so natural, like I had known you forever.",
+    "From that first conversation on 20th October to meeting you in November to you giving me a ring on 5th December 💍. Everything felt so natural, like I had known you forever.",
     "assets/image1.png"
 )
 
 # 🌧️ Rough Patch
 memory(
     "🌧️ The Storm That Made Us Stronger",
-    "January wasn’t easy. We had our rough patch, and you fell sick… but somehow, even then, we didn’t let go.",
+    "January wasn’t easy. We had our rough patch and then you fell sick. Fast forward to Mat jao mat jao mat jao.",
     "assets/image2.png"
 )
 
 # 💻 Building Together
 memory(
     "💻 Building Together",
-    "From January to July, working on our first creation… building our first website together. We weren’t just in love, we were building something real.",
+    "From January to July, working on building our first website together. We weren’t just falling in love, we were building something real.",
     "assets/image3.png"
 )
 
@@ -137,14 +137,14 @@ memory(
 # ✨ College Life
 memory(
     "✨ Us, Living Life",
-    "Roorkee trip, our first drink, learning ML together… those college days felt different because you were there.",
+    "Roorkee trip, our first drink, learning ML together, making friends - those college days felt different because you were there.",
     "assets/image5.png"
 )
 
 # 🧠 Growth
 memory(
     "🧠 Growing Together",
-    "From research papers to placements… FNPC25, your job on 15th September, my internship on 4th December… we grew together.",
+    "From research papers to placements, FNPC25, your job on 15th September, my internship on 4th December… we grew together.",
     "assets/image6.png"
 )
 
@@ -160,11 +160,12 @@ st.markdown('<div class="section-title">🎉 Happy 21st Birthday ❤️</div>', 
 
 st.markdown("""
 <div class="text">
-Your Pikachu will always choose you, Charmander ⚡🔥<br><br>
+Your Pika will always choose you, Chinka Charu. ⚡🔥<br><br>
 Happy 21st, my love.<br>
 You are my safest place, my biggest strength, and my favorite person.<br><br>
-And no matter where life takes us…<br>
-I’m just really glad it’s you.
+And no matter where life takes us<br>
+I’m just really glad it’s you. <br>
+We ain't ever getting older <3
 </div>
 """, unsafe_allow_html=True)
 
