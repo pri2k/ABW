@@ -109,7 +109,7 @@ def memory(title, text, image):
 # 🌱 Beginning
 memory(
     "🌱 The Beginning",
-    "From that first conversation on 20th October to meeting you in November to you giving me a ring on 5th December 💍. Everything felt so natural, like I had known you forever.",
+    "From that first conversation on 20th October to meeting you in November to you giving me a ring on 4th December 💍. Everything felt so natural, like I had known you forever.",
     "assets/image1.png"
 )
 
